@@ -10,9 +10,9 @@
   <strong>Desarrollo Web</strong>
   <div>
     <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html"/>
       <img src="https://skillicons.dev/icons?i=css"/>
       <img src="https://skillicons.dev/icons?i=js"/>
-      <img src="https://skillicons.dev/icons?i=html"/>
       <img src="https://skillicons.dev/icons?i=tailwind"/>
       <img src="https://skillicons.dev/icons?i=react"/>
       <img src="https://skillicons.dev/icons?i=java"/>
@@ -25,10 +25,9 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=godot" />
       <img src="https://skillicons.dev/icons?i=unity" />
-      <img src="https://skillicons.dev/icons?i=unrealengine" />
       <img src="https://skillicons.dev/icons?i=blender" />
       <img src="https://skillicons.dev/icons?i=cpp"/>
-      <!--<img src="https://skillicons.dev/icons?i=cs"/>-->
+      <img src="https://skillicons.dev/icons?i=cs"/>
     </a>
   </div>
 </div>
@@ -59,4 +58,5 @@
 </details>
 
 # 🥂 Current Projects
+- 👀 new proyect´s ......
 - **Game Horror** - 
