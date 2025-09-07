@@ -31,8 +31,10 @@ Disponible en:
 
 ## 🤵 Sobre Mí
 - 💻 Actualmente aprendiendo **C++**  
-- ✈️ Empecé a programar desde joven gracias a **Minecraft Java**  
-- 🎮 Enfocado en **Desarrollo Web** y **Desarrollo de Videojuegos**
+- ✈️ Comencé a programar desde joven gracias a mi pasión por **Java Minecraft**.  
+- 🔨 Durante varios años me especialicé en la creación de plugins para servidores de Minecraft, lo que me permitió profundizar en el **desarrollo de software**.  
+- 🎮 Hoy en día sigo desarrollando proyectos como hobby, mientras enfoco mis habilidades en **Desarrollo Web** y **Desarrollo de Videojuegos**.  
+
 
 ## 📚 Historial de Proyectos (Servidores de Minecraft)
 <details>
