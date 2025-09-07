@@ -1,7 +1,7 @@
 # 🌐 Idiomas
 Disponible en:  
 - 🇺🇸 [English](README.md)  
-- 🇪🇸 Español (este archivo)
+- 🇪🇸 Español 
 
 ---
 
