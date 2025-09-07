@@ -1,6 +1,6 @@
 # 🌐 Languages
 Available:  
-- 🇺🇸 English (this file)  
+- 🇺🇸 English 
 - 🇪🇸 [Español](README.es.md)
 
 ---
