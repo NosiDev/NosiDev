@@ -35,7 +35,23 @@ Available:
 - 🎮 Focused on **Game Dev & Web Dev**
 
 ## 📚 Project History (Minecraft Servers)
-*(list as before)*
+<details>
+  <summary>Haz clic para expandir</summary>
+  <ul>
+    <li>⚔ Olympus Network - Red PvP (Developer)</li>
+    <li>⚔ DixPvP Network - Red PvP (Developer)</li>
+    <li>⚔ CentryHCF Network - Red PvP (Developer)</li>
+    <li>⚔ MininMC Network - Red PvP (Developer)</li>
+    <li>⚔ LivePvP Network - Red PvP (Developer)</li>
+    <li>⚔ ZenithMC Network - Red PvP (Developer)</li>
+    <li>⚔ InfernalMC Network - Red PvP (Developer/Owner)</li>
+    <li>⚔ SharkMC Network - PvP & Comunidad (Developer)</li>
+    <li>⚔ MoonWolf Network - Red PvP (Developer)</li>
+    <li>⚔ WaveHCF Network - Red PvP (Developer)</li>
+    <li>⚔ EvilMC Network - Red PvP (Developer)</li>
+    <li>⚔ AtlasMC Network - PvP & MiniJuegos (Developer)</li>
+  </ul>
+</details>
 
 ## 🥂 Current Projects
 - 🚀 Exploring new ideas & prototypes  
