@@ -15,8 +15,19 @@ Available:
 ---
 
 ## 🌟 Skills
-- Web: HTML, CSS, JS, React, Tailwind, Java, Astro  
-- Game Dev: Godot, Unity, Blender, C++, C#
+<div align="center">
+
+### 🖥 Web Development  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,java,astro"/>
+</a>
+
+### 🎮 Game Development  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=godot,unity,blender,cpp,cs"/>
+</a>
+
+</div>
 
 ## 🤵 About Me
 - 💻 Currently learning **C++**  
