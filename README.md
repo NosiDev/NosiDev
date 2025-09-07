@@ -9,11 +9,54 @@
 
 # 🌐 Languages
 Choose your language:  
-🇺🇸 [English](#english-version) | 🇪🇸 [Español](#versión-en-español)
+🇺🇸 English | 🇪🇸 Español
+
+<style>
+/* Ocultar los radio buttons */
+input[name="lang"] {
+  display: none;
+}
+
+/* Estilos de los botones */
+label {
+  cursor: pointer;
+  padding: 6px 12px;
+  margin-right: 6px;
+  border-radius: 8px;
+  background: #0d1117;
+  color: #4CAF50;
+  border: 1px solid #4CAF50;
+}
+
+label:hover {
+  background: #4CAF50;
+  color: #0d1117;
+}
+
+/* Ocultar contenido por defecto */
+.content {
+  display: none;
+  margin-top: 15px;
+}
+
+/* Mostrar según el botón seleccionado */
+#en:checked ~ #english,
+#es:checked ~ #spanish {
+  display: block;
+}
+</style>
+
+<div align="center">
+  <input type="radio" id="en" name="lang" checked>
+  <label for="en">🇺🇸 English</label>
+  
+  <input type="radio" id="es" name="lang">
+  <label for="es">🇪🇸 Español</label>
+</div>
 
 ---
 
-# English Version
+<div id="english" class="content">
 
 ## 🌟 Skills
 <div align="center">
@@ -34,9 +77,9 @@ Choose your language:
 
 ## 🤵 About Me
 - 💻 Currently learning **C++**  
-- ✈️ I started programming at a young age, inspired by my passion for **Java Minecraft**.  
-- 🔨 For years, I specialized in creating plugins for Minecraft servers, which allowed me to deepen my knowledge in **software development**.  
-- 🎮 Today, I continue developing projects as a hobby while focusing on **Game Development** and **Web Development**.  
+- ✈️ Started programming at a young age thanks to my passion for **Minecraft Java**  
+- 🔨 Spent years developing **plugins for Minecraft servers**, which deepened my knowledge in software development  
+- 🎮 Today I keep working on projects as a hobby while focusing on **Game Development** and **Web Development**  
 
 ---
 
@@ -62,12 +105,14 @@ Choose your language:
 ---
 
 ## 🥂 Current Projects
-- 🚀 Exploring **new ideas & prototypes**
+- 🚀 Exploring **new ideas & prototypes**  
 - 👻 Developing a **Horror Game**
+
+</div>
 
 ---
 
-# Versión en Español
+<div id="spanish" class="content">
 
 ## 🌟 Habilidades
 <div align="center">
@@ -88,9 +133,9 @@ Choose your language:
 
 ## 🤵 Sobre Mí
 - 💻 Actualmente aprendiendo **C++**  
-- ✈️ Comencé a programar desde joven gracias a mi pasión por **Java Minecraft**.  
-- 🔨 Durante varios años me especialicé en la creación de plugins para servidores de Minecraft, lo que me permitió profundizar en el **desarrollo de software**.  
-- 🎮 Hoy en día sigo desarrollando proyectos como hobby, mientras enfoco mis habilidades en **Desarrollo Web** y **Desarrollo de Videojuegos**.  
+- ✈️ Empecé a programar desde joven gracias a mi pasión por **Minecraft Java**  
+- 🔨 Pasé varios años desarrollando **plugins para servidores de Minecraft**, lo que me permitió profundizar en el desarrollo de software  
+- 🎮 Hoy sigo trabajando en proyectos como hobby, mientras enfoco mis habilidades en **Desarrollo Web** y **Desarrollo de Videojuegos**  
 
 ---
 
@@ -116,5 +161,7 @@ Choose your language:
 ---
 
 ## 🥂 Proyectos Actuales
-- 🚀 Explorando **nuevas ideas y prototipos**
+- 🚀 Explorando **nuevas ideas y prototipos**  
 - 👻 Desarrollando un **Videojuego de Terror**
+
+</div>
