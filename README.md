@@ -31,8 +31,10 @@ Available:
 
 ## 🤵 About Me
 - 💻 Currently learning **C++**  
-- ✈️ Started programming at a young age thanks to **Minecraft Java**  
-- 🎮 Focused on **Game Dev & Web Dev**
+- ✈️ I started programming at a young age, inspired by my passion for **Java Minecraft**.  
+- 🔨 For years, I specialized in creating plugins for Minecraft servers, which allowed me to deepen my knowledge in **software development**.  
+- 🎮 Today, I continue developing projects as a hobby while focusing on **Game Development** and **Web Development**.  
+
 
 ## 📚 Project History (Minecraft Servers)
 <details>
