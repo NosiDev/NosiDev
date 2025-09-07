@@ -36,7 +36,7 @@ Available:
 
 ## 📚 Project History (Minecraft Servers)
 <details>
-  <summary>Haz clic para expandir</summary>
+  <summary>Click to expand</summary>
   <ul>
     <li>⚔ Olympus Network - Red PvP (Developer)</li>
     <li>⚔ DixPvP Network - Red PvP (Developer)</li>
