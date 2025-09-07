@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&width=435&lines=Hello%2C+my+name+is+NosiDev;I%C2%B4m+17+years+old;I%C2%B4m+a+Game+Developer;I%C2%B4m+a+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&width=435&lines=Hello%2C+my+name+is+NosiDev;I%C2%B4m+18+years+old;I%C2%B4m+a+Game+Developer;I%C2%B4m+a+Web+Developer)](https://git.io/typing-svg)
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nosidev&show_icons=true&count_private=true&hide_border=true&title_color=4CAF50&icon_color=00bfbf&text_color=4CAF50&bg_color=0d1117" alt="TobiDev"/>
