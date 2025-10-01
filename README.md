@@ -52,9 +52,11 @@ Available:
     <li>⚔ WaveHCF Network - Red PvP (Developer)</li>
     <li>⚔ EvilMC Network - Red PvP (Developer)</li>
     <li>⚔ AtlasMC Network - PvP & MiniJuegos (Developer)</li>
+    <li>⚔ RankedRIP Network - PvP (Developer)</li>
   </ul>
 </details>
 
 ## 🥂 Current Projects
 - 🚀 Exploring new ideas & prototypes  
 - 👻 Developing a Horror Game
+- 💻 Working in Ranked.rip
