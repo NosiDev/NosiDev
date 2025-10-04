@@ -20,7 +20,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=NosiDev&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Game%20Developer%20•%20Web%20Developer%20•%20Creative%20Mind&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=180&section=header&text=NosiDev&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Game%20Developer%20•%20Web%20Developer%20•%20Creative%20Mind&descAlignY=55&descSize=18"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+NosiDev+%F0%9F%91%8B;18+Years+Old+%7C+Passionate+Developer;Crafting+Games+%F0%9F%8E%AE;Building+Web+Experiences+%F0%9F%92%BB;Turning+Ideas+into+Reality+%E2%9C%A8)](https://git.io/typing-svg)
 
@@ -119,7 +119,7 @@ $ code --version
 
 ### 🛠️ Tools & Software
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,blender&theme=dark" />
 </p>
 
 <table>
@@ -129,6 +129,7 @@ $ code --version
 **Development** 💻
 - 🔧 Git & GitHub
 - 📝 VSCode
+- 💡 IntelliJ IDEA
 
 </td>
 <td align="center" width="33%">
@@ -310,6 +311,6 @@ ideas & concepts
 
 ### 💬 *"Building tomorrow's experiences, one line of code at a time"*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=100&section=footer"/>
 
 </div>
