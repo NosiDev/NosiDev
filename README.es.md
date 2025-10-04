@@ -301,7 +301,7 @@ ideas y conceptos
 <a href="https://github.com/nosidev">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:contact@nosidev.com">
+<a href="mailto:nosidev@proton.me">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://discord.gg/MTAZTmzghn">
