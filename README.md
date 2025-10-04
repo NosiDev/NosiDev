@@ -1,62 +1,284 @@
-# 🌐 Languages
-Available:  
-- 🇺🇸 English 
-- 🇪🇸 [Español](README.es.md)
+<div align="center">
+
+# 🌐 Languages | Idiomas
+<table>
+<tr>
+<td align="center" width="50%">
+  
+### 🇺🇸 English
+**You're here!**
+
+</td>
+<td align="center" width="50%">
+
+### 🇪🇸 [Español](README.es.md)
+**¡También disponible!**
+
+</td>
+</tr>
+</table>
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&width=435&lines=Hello%2C+my+name+is+NosiDev;I%C2%B4m+18+years+old;Game+Developer;Web+Developer)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=NosiDev&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Game%20Developer%20•%20Web%20Developer%20•%20Creative%20Mind&descAlignY=55&descSize=18"/>
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nosidev&show_icons=true&count_private=true&hide_border=true&title_color=4CAF50&icon_color=00bfbf&text_color=4CAF50&bg_color=0d1117" alt="nosidev stats"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nosidev&layout=compact&hide_border=true&title_color=4CAF50&text_color=4CAF50&bg_color=0d1117"/>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+NosiDev+%F0%9F%91%8B;18+Years+Old+%7C+Passionate+Developer;Crafting+Games+%F0%9F%8E%AE;Building+Web+Experiences+%F0%9F%92%BB;Turning+Ideas+into+Reality+%E2%9C%A8)](https://git.io/typing-svg)
 
----
-
-## 🌟 Skills
-<div align="center">
-
-### 🖥 Web Development  
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,java,astro"/>
-</a>
-
-### 🎮 Game Development  
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=godot,unity,blender,cpp,cs"/>
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nosidev&label=Profile%20Views&color=4CAF50&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/nosidev?label=Followers&style=for-the-badge&color=4CAF50&labelColor=0d1117" alt="Followers" />
+</p>
 
 </div>
 
-## 🤵 About Me
-- 💻 Currently learning **C++**  
-- ✈️ I started programming at a young age, inspired by my passion for **Java Minecraft**.  
-- 🔨 For years, I specialized in creating plugins for Minecraft servers, which allowed me to deepen my knowledge in **software development**.  
-- 🎮 Today, I continue developing projects as a hobby while focusing on **Game Development** and **Web Development**.  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
 
-## 📚 Project History (Minecraft Servers)
+## 📊 GitHub Analytics
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nosidev&show_icons=true&count_private=true&hide_border=true&title_color=4CAF50&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="NosiDev GitHub Stats"/>
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=nosidev&theme=dark&hide_border=true&background=0D1117&stroke=4CAF50&ring=4CAF50&fire=00bfbf&currStreakLabel=4CAF50&border_radius=10" alt="NosiDev Streak Stats"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nosidev&layout=compact&hide_border=true&title_color=4CAF50&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=nosidev&bg_color=0d1117&color=4CAF50&line=00bfbf&point=c9d1d9&area=true&hide_border=true&radius=10"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 🎯 Skills & Technologies
+
+### 🌐 Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,java,astro&theme=dark" />
+</p>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**Frontend** 🎨
+```javascript
+const skills = {
+  languages: ["HTML5", "CSS3", "JavaScript"],
+  frameworks: ["React", "Astro", "Tailwind"]
+}
+```
+
+</td>
+<td align="center" width="33%">
+
+**Backend** ⚙️
+```java
+public class Backend {
+  String[] languages = {"Java"};
+  String focus = "Server Development";
+}
+```
+
+</td>
+<td align="center" width="33%">
+
+**Tools** 🛠️
+```bash
+$ git --version
+$ npm --version
+$ code --version
+```
+
+</td>
+</tr>
+</table>
+
+### 🎮 Game Development
+<p>
+<img src="https://skillicons.dev/icons?i=godot,unity,blender,cpp,cs&theme=dark" />
+</p>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Game Engines** 🎯
+- 🟦 Godot Engine
+- ⚫ Unity 3D
+
+</td>
+<td align="center" width="50%">
+
+**3D & Programming** 🎨
+- 🧊 Blender
+- 💻 C++ / C#
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 👨‍💻 About Me
+
+</div>
+
+```cpp
+class NosiDev {
+private:
+    string name = "NosiDev";
+    int age = 18;
+    string location = "Argentina 🇦🇷";
+    
+public:
+    vector<string> passions = {"Game Development", "Web Development", "Creating Experiences"};
+    string currentlyLearning = "C++";
+    
+    void getStory() {
+        cout << "✈️ My journey started young, fueled by Minecraft Java" << endl;
+        cout << "🔨 Spent years mastering plugin development for MC servers" << endl;
+        cout << "🎮 Now crafting games and web experiences as a creative hobby" << endl;
+        cout << "🚀 Always exploring, always building, always learning" << endl;
+    }
+};
+```
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 💡 Philosophy
+*"Code is poetry in motion"*
+
+</td>
+<td align="center" width="33%">
+
+### 🎯 Focus
+*Creating immersive experiences*
+
+</td>
+<td align="center" width="33%">
+
+### 🌱 Growth
+*Forever learning, forever evolving*
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 🏆 Project History - Minecraft Servers
+
 <details>
-  <summary>Click to expand</summary>
-  <ul>
-    <li>⚔ Olympus Network - Red PvP (Developer)</li>
-    <li>⚔ DixPvP Network - Red PvP (Developer)</li>
-    <li>⚔ CentryHCF Network - Red PvP (Developer)</li>
-    <li>⚔ MininMC Network - Red PvP (Developer)</li>
-    <li>⚔ LivePvP Network - Red PvP (Developer)</li>
-    <li>⚔ ZenithMC Network - Red PvP (Developer)</li>
-    <li>⚔ InfernalMC Network - Red PvP (Developer/Owner)</li>
-    <li>⚔ SharkMC Network - PvP & Comunidad (Developer)</li>
-    <li>⚔ MoonWolf Network - Red PvP (Developer)</li>
-    <li>⚔ WaveHCF Network - Red PvP (Developer)</li>
-    <li>⚔ EvilMC Network - Red PvP (Developer)</li>
-    <li>⚔ AtlasMC Network - PvP & MiniJuegos (Developer)</li>
-    <li>⚔ RankedRIP Network - PvP (Developer)</li>
-  </ul>
+<summary>⚔️ Click to reveal my epic journey through 13+ server networks</summary>
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎖️ Major Networks
+- ⚔️ **Olympus Network** - PvP Network (Developer)
+- ⚔️ **DixPvP Network** - PvP Network (Developer)
+- ⚔️ **CentryHCF Network** - HCF Network (Developer)
+- ⚔️ **MininMC Network** - PvP Network (Developer)
+- ⚔️ **LivePvP Network** - PvP Network (Developer)
+- ⚔️ **ZenithMC Network** - PvP Network (Developer)
+- ⚔️ **InfernalMC Network** - PvP Network (Developer/Owner) 👑
+
+</td>
+<td width="50%">
+
+### 🌟 Additional Projects
+- ⚔️ **SharkMC Network** - PvP & Community (Developer)
+- ⚔️ **MoonWolf Network** - PvP Network (Developer)
+- ⚔️ **WaveHCF Network** - HCF Network (Developer)
+- ⚔️ **EvilMC Network** - PvP Network (Developer)
+- ⚔️ **AtlasMC Network** - PvP & Minigames (Developer)
+- ⚔️ **RankedRIP Network** - PvP (Developer)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Networks-13+-4CAF50?style=for-the-badge&logo=minecraft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Role-Full_Stack_Dev-00bfbf?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Experience-Years-FF6B6B?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+</p>
+
 </details>
 
-## 🥂 Current Projects
-- 🚀 Exploring new ideas & prototypes  
-- 👻 Developing a Horror Game
-- 💻 Working in Ranked.rip
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 🚀 Current Projects & Endeavors
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎮 Horror Game
+<img src="https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge"/>
+
+Creating an immersive
+horror experience
+
+</td>
+<td align="center" width="33%">
+
+### 💻 Ranked.rip
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+
+Building the next
+generation platform
+
+</td>
+<td align="center" width="33%">
+
+### 🔬 R&D
+<img src="https://img.shields.io/badge/Status-Exploring-blue?style=for-the-badge"/>
+
+Prototyping new
+ideas & concepts
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 🤝 Let's Connect!
+
+<p>
+<a href="https://github.com/nosidev">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:contact@nosidev.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://discord.com">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+</p>
+
+### 💬 *"Building tomorrow's experiences, one line of code at a time"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/>
+
+</div>
