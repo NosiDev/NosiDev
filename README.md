@@ -95,7 +95,7 @@ $ code --version
 
 ### 🎮 Game Development
 <p>
-<img src="https://skillicons.dev/icons?i=godot,unity,blender,cpp,cs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=godot,unity,cpp,cs&theme=dark" />
 </p>
 
 <table>
@@ -109,9 +109,40 @@ $ code --version
 </td>
 <td align="center" width="50%">
 
-**3D & Programming** 🎨
+**Programming** 💻
+- 🔷 C++
+- 🟢 C#
+
+</td>
+</tr>
+</table>
+
+### 🛠️ Tools & Software
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender&theme=dark" />
+</p>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**Development** 💻
+- 🔧 Git & GitHub
+- 📝 VSCode
+
+</td>
+<td align="center" width="33%">
+
+**Design** 🎨
+- 🎭 Figma
 - 🧊 Blender
-- 💻 C++ / C#
+
+</td>
+<td align="center" width="33%">
+
+**Other** ⚡
+- 📦 NPM / Yarn
+- 🐧 Linux
 
 </td>
 </tr>
