@@ -271,7 +271,7 @@ horror experience
 <td align="center" width="33%">
 
 ### 💻 Ranked.rip
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Offline-success?style=for-the-badge"/>
 
 Building the next
 generation platform
