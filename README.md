@@ -271,11 +271,11 @@ horror experience
 <td align="center" width="33%">
 
 ### 💻 Ranked.rip
-<img src="https://img.shields.io/badge/Status-Offline-error?style=for-the-badge"/>
-<!--Online-success-->
+<img src="https://img.shields.io/badge/Status-Offline-red?style=for-the-badge"/>
+
 Building the next
 generation platform
-
+<!--Online-success-->
 </td>
 <td align="center" width="33%">
 
