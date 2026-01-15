@@ -271,7 +271,7 @@ de terror inmersiva
 <td align="center" width="33%">
 
 ### 💻 Ranked.rip
-<img src="https://img.shields.io/badge/Estado-Activo-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Estado-Inactivo-red?style=for-the-badge"/>
 
 Construyendo la plataforma
 de nueva generación
