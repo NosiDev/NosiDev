@@ -110,7 +110,7 @@ $ code --version
 <td align="center" width="50%">
 
 **Programación** 💻
-- 🔷 C++
+- 🔷 GDScript
 - 🟢 C#
 
 </td>
@@ -160,23 +160,27 @@ $ code --version
 </div>
 
 ```cpp
-class NosiDev {
-private:
-    string nombre = "NosiDev";
-    int edad = 18;
-    string ubicacion = "Argentina 🇦🇷";
-    
-public:
-    vector<string> pasiones = {"Desarrollo de Juegos", "Desarrollo Web", "Crear Experiencias"};
-    string aprendiendoActualmente = "C++";
-    
-    void obtenerHistoria() {
-        cout << "✈️ Mi viaje comenzó joven, impulsado por Minecraft Java" << endl;
-        cout << "🔨 Pasé años dominando el desarrollo de plugins para servidores MC" << endl;
-        cout << "🎮 Ahora creo juegos y experiencias web como hobby creativo" << endl;
-        cout << "🚀 Siempre explorando, siempre construyendo, siempre aprendiendo" << endl;
-    }
-};
+extends Node
+class_name NosiDev
+
+var nombre := "NosiDev"
+var edad := 18
+var ubicacion := "Argentina 🇦🇷"
+
+var pasiones := [
+    "Desarrollo de Juegos",
+    "Desarrollo Web",
+    "Crear Experiencias"
+]
+
+var habilidades := ["Java", "JavaScript", "Godot"]
+var estado := "Aprendiendo y creando"
+
+func obtener_historia() -> void:
+    print("✈️ Mi viaje comenzó joven, impulsado por Minecraft Java")
+    print("🔨 Pasé años dominando el desarrollo de plugins para servidores MC")
+    print("🎮 Ahora creo juegos y experiencias web como hobby creativo")
+    print("🚀 Siempre explorando, siempre construyendo, siempre aprendiendo")
 ```
 
 <table align="center">
