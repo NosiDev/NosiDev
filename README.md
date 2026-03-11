@@ -110,9 +110,8 @@ $ code --version
 <td align="center" width="50%">
 
 **Programming** 💻
-- 🔷 C++
+- 🔷 GDScript
 - 🟢 C#
-
 </td>
 </tr>
 </table>
@@ -159,24 +158,29 @@ $ code --version
 
 </div>
 
-```cpp
-class NosiDev {
-private:
-    string name = "NosiDev";
-    int age = 18;
-    string location = "Argentina 🇦🇷";
-    
-public:
-    vector<string> passions = {"Game Development", "Web Development", "Creating Experiences"};
-    string currentlyLearning = "C++";
-    
-    void getStory() {
-        cout << "✈️ My journey started young, fueled by Minecraft Java" << endl;
-        cout << "🔨 Spent years mastering plugin development for MC servers" << endl;
-        cout << "🎮 Now crafting games and web experiences as a creative hobby" << endl;
-        cout << "🚀 Always exploring, always building, always learning" << endl;
-    }
-};
+```gdscript
+extends Node
+class_name NosiDev
+
+var age := 18
+var location := "Argentina 🇦🇷"
+
+var passions := [
+    "Game Development",
+    "Web Development",
+    "Creating Experiences"
+]
+
+var skills := ["Java", "JavaScript", "Godot"]
+var status := "Learning and building"
+
+func get_story() -> void:
+    print("✈️ My journey started young, fueled by Minecraft Java")
+    print("🔨 Spent years mastering plugin development for MC servers")
+    print("🎮 Now crafting games and web experiences as a creative hobby")
+    print("🚀 Always exploring, always building, always learning")
+
+
 ```
 
 <table align="center">
