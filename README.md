@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=NosiDev&fontSize=72&fontAlignY=38&animation=twinkling&fontColor=fff&desc=Game%20Developer%20%20%E2%80%A2%20%20Web%20Developer%20%20%E2%80%A2%20%20Creative%20Mind&descAlignY=58&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=NosiDev&fontSize=72&fontAlignY=38&animation=twinkling&fontColor=fff&desc=Fullstack%20Developer%20%20%E2%80%A2%20%20Game%20Developer%20%20%E2%80%A2%20%20Creative%20Mind&descAlignY=58&descSize=17"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=4ADE80&center=true&vCenter=true&width=620&lines=Hello%2C+I'm+NosiDev+%F0%9F%91%8B;18+y%2Fo+%7C+Argentina+%F0%9F%87%A6%F0%9F%87%B7;Crafting+games+in+Godot+%F0%9F%8E%AE;Building+for+the+web+%F0%9F%92%BB;Always+shipping%2C+always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+<h1 align="center">Tobias Campomenosi (NosiDev)</h1>
+
+<p align="center">
+Fullstack Developer • Game Developer • Software Development Intern 🇦🇷
+</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=22\&pause=1000\&color=4ADE80\&center=true\&vCenter=true\&width=720\&lines=Hello%2C+I'm+Tobias+Campomenosi+%F0%9F%91%8B;Also+known+as+NosiDev+%F0%9F%9A%80;Software+Development+Intern+%F0%9F%92%BC;Crafting+games+in+Godot+%F0%9F%8E%AE;Building+for+the+web+%F0%9F%92%BB;Always+shipping%2C+always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=nosidev&label=Profile%20Views&color=4ADE80&style=for-the-badge" />
@@ -20,17 +26,28 @@
 extends Node
 class_name NosiDev
 
-const AGE      := 18
+const NAME     := "Tobias Campomenosi"
+const ALIAS    := "NosiDev"
 const LOCATION := "Argentina 🇦🇷"
 const STATUS   := "Building, breaking and learning"
 
-var passions   := ["Game Development", "Web Development", "Creative Coding"]
-var current    := "Horror game in Godot 🎃"
+var passions := [
+    "Game Development",
+    "Web Development",
+    "Creative Coding"
+]
+
+var current := [
+    "Horror game in Godot 🎃",
+    "Private projects 💻",
+    "Research & experimentation 🔬"
+]
 
 func _ready() -> void:
     # Journey started modding Minecraft → evolved into full-stack dev
     print("🔨 5+ years of plugin dev across 13+ server networks")
-    print("🎮 Now crafting games and web apps as creative outlets")
+    print("💼 Software Development Intern")
+    print("🎮 Crafting games and web applications")
     print("🚀 Always shipping. Always leveling up.")
 ```
 
@@ -58,10 +75,10 @@ func _ready() -> void:
   <img src="https://skillicons.dev/icons?i=html,css,js,react,astro,tailwind,java&theme=dark" />
 </p>
 
-| Frontend 🎨 | Backend ⚙️ | Tools 🛠️ |
-|:-----------:|:----------:|:--------:|
-| HTML5 · CSS3 · JavaScript | Java (Spigot / Paper API) | Git & GitHub |
-| React · Astro · Tailwind | REST APIs | VS Code · IntelliJ IDEA |
+|        Frontend 🎨        |         Backend ⚙️        |        Tools 🛠️        |
+| :-----------------------: | :-----------------------: | :---------------------: |
+| HTML5 · CSS3 · JavaScript | Java (Spigot / Paper API) |       Git & GitHub      |
+|  React · Astro · Tailwind |         REST APIs         | VS Code · IntelliJ IDEA |
 
 ### 🎮 Game Development
 
@@ -70,9 +87,9 @@ func _ready() -> void:
 </p>
 
 | Engines 🎯 | Languages 💻 | Design 🎨 |
-|:----------:|:------------:|:---------:|
-| Godot 4 | GDScript | Figma |
-| Unity | C# | Blender |
+| :--------: | :----------: | :-------: |
+|   Godot 4  |   GDScript   |   Figma   |
+|    Unity   |      C#      |  Blender  |
 
 ---
 
@@ -80,10 +97,10 @@ func _ready() -> void:
 
 <div align="center">
 
-| 🎃 Horror Game | 🌐 Ranked.rip | 🔬 R&D |
-|:--------------:|:-------------:|:------:|
+|                                 🎃 Horror Game                                 |                                  🌐 Ranked.rip                                  |                                       🔬 R&D                                      |
+| :----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
 | ![Status](https://img.shields.io/badge/Status-In_Dev-f59e0b?style=flat-square) | ![Status](https://img.shields.io/badge/Status-Offline-ef4444?style=flat-square) | ![Status](https://img.shields.io/badge/Status-Exploring-06b6d4?style=flat-square) |
-| Immersive horror experience built in Godot 4 | Next-gen competitive platform — coming back stronger | Prototyping mechanics and new concepts |
+|                  Immersive horror experience built in Godot 4                  |               Next-gen competitive platform — coming back stronger              |                       Prototyping mechanics and new concepts                      |
 
 </div>
 
@@ -98,21 +115,21 @@ func _ready() -> void:
 
 <br>
 
-| Network | Type | Role |
-|---------|------|------|
-| ⚔️ InfernalMC | PvP Network | Developer / **Owner 👑** |
-| ⚔️ Olympus Network | PvP Network | Developer |
-| ⚔️ DixPvP Network | PvP Network | Developer |
-| ⚔️ CentryHCF Network | HCF Network | Developer |
-| ⚔️ MininMC Network | PvP Network | Developer |
-| ⚔️ LivePvP Network | PvP Network | Developer |
-| ⚔️ ZenithMC Network | PvP Network | Developer |
-| ⚔️ SharkMC Network | PvP & Community | Developer |
-| ⚔️ MoonWolf Network | PvP Network | Developer |
-| ⚔️ WaveHCF Network | HCF Network | Developer |
-| ⚔️ EvilMC Network | PvP Network | Developer |
-| ⚔️ AtlasMC Network | PvP & Minigames | Developer |
-| ⚔️ RankedRIP Network | PvP | Developer |
+| Network              | Type            | Role                     |
+| -------------------- | --------------- | ------------------------ |
+| ⚔️ InfernalMC        | PvP Network     | Developer / **Owner 👑** |
+| ⚔️ Olympus Network   | PvP Network     | Developer                |
+| ⚔️ DixPvP Network    | PvP Network     | Developer                |
+| ⚔️ CentryHCF Network | HCF Network     | Developer                |
+| ⚔️ MininMC Network   | PvP Network     | Developer                |
+| ⚔️ LivePvP Network   | PvP Network     | Developer                |
+| ⚔️ ZenithMC Network  | PvP Network     | Developer                |
+| ⚔️ SharkMC Network   | PvP & Community | Developer                |
+| ⚔️ MoonWolf Network  | PvP Network     | Developer                |
+| ⚔️ WaveHCF Network   | HCF Network     | Developer                |
+| ⚔️ EvilMC Network    | PvP Network     | Developer                |
+| ⚔️ AtlasMC Network   | PvP & Minigames | Developer                |
+| ⚔️ RankedRIP Network | PvP             | Developer                |
 
 </details>
 
@@ -125,9 +142,11 @@ func _ready() -> void:
 <a href="https://github.com/nosidev">
   <img src="https://img.shields.io/badge/GitHub-nosidev-4ADE80?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
+
 <a href="mailto:nosidev@proton.me">
   <img src="https://img.shields.io/badge/Email-nosidev@proton.me-06b6d4?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0d1117"/>
 </a>
+
 <a href="https://discord.gg/MTAZTmzghn">
   <img src="https://img.shields.io/badge/Discord-Join_Server-818cf8?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117"/>
 </a>
